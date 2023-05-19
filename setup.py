@@ -19,5 +19,6 @@ setup(
     long_description=README + "\n\n" + HISTORY,
     license="MIT",
     packages=find_packages(),
+    url="https://github.com/karol2502/sigma-console-menu",
     install_requires=["keyboard"],
 )
